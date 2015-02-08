@@ -1,1 +1,21 @@
-����
+https://github.com/gjxnj126/web.git
+
+
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:gjxnj126/test.git
+git push -u origin master
+
+
+git add .
+
+git add --update .
+
+git commit -am "add User.java"
+
+
+$ git init  
+$ git clone git@github.com:你的github用户名/你的github项目名.git 
+
+$ git pull 
